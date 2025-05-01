@@ -1,2 +1,2 @@
 # Kevin Xiong
-Config files for my GitHub profile.
+Computer Science student | Web Developer | Interested in Cloud and Cybersecurity
